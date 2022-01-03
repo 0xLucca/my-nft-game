@@ -1,2 +1,5 @@
 V1 (Minting and storing data in the NFT)
 0x5760559137711990007e74572c91527a0A22d73D
+
+V2 (Added boss, attack and restore health functions)
+0x54d22256425E95FCF2f6DDb7DBe6bEd2512Fb156

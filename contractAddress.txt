@@ -3,3 +3,6 @@ V1 (Minting and storing data in the NFT)
 
 V2 (Added boss, attack and restore health functions)
 0x54d22256425E95FCF2f6DDb7DBe6bEd2512Fb156
+
+V3 (NFT's images hosted on IPFS instead of imgur)
+0x383BAF2E0eb7db41512456403f3417e9D67A577c
